@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/VehicleTemplate/Blueprints/OffroadCar/OffroadCar_Pawn.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/FV/0ORXDSHBYQOS2A920WHDXV.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/S7/2NX9ZP7Z2SEKB8KO5J9VC2.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/6/OV/83W7IXH4TGHRI72ZDV4BUN.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/2/KA/641DILFS056EAGXA96WARU.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/7/J6/FATC6RSAGYSG8G4CTB1IAT.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/__ExternalActors__/VehicleTemplate/Maps/VehicleExampleMap/C/76/YJP85A4P2ZE6QYF4TIS7MO.uasset",
+				"C:/Users/C1018908/Documents/Unreal Projects/Space_Jousting/Content/VehicleTemplate/Blueprints/VehicleAdvGameMode.uasset"
+			]
+		}
+	]
+}
